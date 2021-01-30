@@ -1,0 +1,15 @@
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\bin\Debug\CoffeeShopApplication.exe.config
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\bin\Debug\CoffeeShopApplication.exe
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\bin\Debug\CoffeeShopApplication.pdb
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\bin\Debug\Dapper.dll
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\bin\Debug\Dapper.xml
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\obj\Debug\CoffeeShopApplication.csprojAssemblyReference.cache
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\obj\Debug\CoffeeShopApplication.DodajZaposlenika.resources
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\obj\Debug\CoffeeShopApplication.LoginForm.resources
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\obj\Debug\CoffeeShopApplication.Properties.Resources.resources
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\obj\Debug\CoffeeShopApplication.csproj.GenerateResource.cache
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\obj\Debug\CoffeeShopApplication.csproj.CoreCompileInputs.cache
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\obj\Debug\CoffeeShopApplication.csproj.CopyComplete
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\obj\Debug\CoffeeShopApplication.exe
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\obj\Debug\CoffeeShopApplication.pdb
+C:\Users\Matek\source\repos\CoffeeShopApplication\CoffeeShopApplication\obj\Debug\CoffeeShopApplication.ShopForm.resources
